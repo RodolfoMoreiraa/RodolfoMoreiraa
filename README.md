@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/Rodolfo Moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo moreira" height="30" width="40" /></a>
 <a href="https://fb.com/rodolfo moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodolfo moreira" height="30" width="40" /></a>
 <a href="https://instagram.com/rodolfo.moreiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodolfo.moreiraa" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/ci8r61bw714czbks30kntph8a" target="blank"><img align="center" src="URL_DA_IMAGEM_DO_SPOTIFY" alt="Rodolfo Moreira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
