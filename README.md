@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, You can call me Ruda</h1>
 <h3 align="center">Just a Web Informatics student who is trying to learn and master programming skills</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<video autoplay loop muted playsinline width="400">
+  <source src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" type="video/gif">
+  Seu navegador não suporta a reprodução de vídeo em HTML5.
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfomoreiraa&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomoreiraa" /> </p>
 
 - 🔭 I’m currently working on **finishing my graduation with sucess**
