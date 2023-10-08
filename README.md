@@ -2,6 +2,8 @@
 <h3 align="center">Just a Web Informatics student who is trying to learn and master programming skills</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfomoreiraa&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomoreiraa" /> </p>
 
 - 🔭 I’m currently working on **finishing my graduation with sucess**
