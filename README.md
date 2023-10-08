@@ -3,7 +3,6 @@
 
 <video autoplay loop muted playsinline width="400">
   <source src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" type="video/gif">
-  Seu navegador não suporta a reprodução de vídeo em HTML5.
 </video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfomoreiraa&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomoreiraa" /> </p>
 
