@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me Ruda</h1>
-<h3 align="center">Just a Student who is trying to learn and master programming skills</h3>
+<h3 align="center">Just a Web Informatics student who is trying to learn and master programming skills</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfomoreiraa&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomoreiraa" /> </p>
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_rudaa_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rudaa_0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodolfo moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo moreira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rodolfo Moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfo moreira" height="30" width="40" /></a>
 <a href="https://fb.com/rodolfo moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodolfo moreira" height="30" width="40" /></a>
 <a href="https://instagram.com/rodolfo.moreiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodolfo.moreiraa" height="30" width="40" /></a>
 </p>
