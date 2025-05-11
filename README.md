@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **projects that mainly seems fun <br> or interesting to me**
 
-- 💬 Ask me about **java related or frontend**
+- 💬 Ask me about **python related**
 
 - 📫 How to reach me **rodolfo.a.f.moreira@gmail.com**
 
-- ⚡ Fun fact **i like coffee, and hit the gym**
+- ⚡ Fun fact **i like to drink coffee, and hit the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
