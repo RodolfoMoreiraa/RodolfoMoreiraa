@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **python related**
 
-- 📫 How to reach me **rodolfo.a.f.moreira@gmail.com**
+- 📫 How to reach me **rodolfo.a.f.moreira@gmail.com** or
+- check my LinkedIN: https://www.linkedin.com/in/rodolfo-moreira-3164b7197/
 
 - ⚡ Fun fact **i like to drink coffee, and hit the gym**
 
