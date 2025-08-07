@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfomoreiraa&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomoreiraa" /> </p>
 
-- 🔭 I’m currently working on **finishing my graduation with sucess**
 
 - 👯 I’m looking to collaborate on **projects that mainly seems fun <br> or interesting to me**
 
