@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me Ruda</h1>
-<h3 align="center">Just a Web Informatics student who is trying to learn and master programming skills</h3>
+<h3 align="center">Web, Mobile, and cloud Computing graduate</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay>
 
